@@ -1,4 +1,11 @@
 # gitPractice
+
+<h1>test</h1>
+
+
+<b>blah</b>
+<br>
+
 aldskfjasl
 
 asdfljkasdfjadf
@@ -13,6 +20,3 @@ fas
 df
 s
 
-///asdfasdfasdf
-
-#does this show up
