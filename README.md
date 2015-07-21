@@ -22,18 +22,11 @@ djfasdfasdfas
 df
 asdf
 sad
-f
-sadf
-s
- 
-asd f
 
-
-g
-d
-d
- 
-
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
  
  
 df
