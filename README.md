@@ -1,14 +1,18 @@
 # gitPractice
 <html>
-<h1>test</h1>
+<h2>test</h2>
 
 
 <b>blah</b>
 <br>
 
-aldskfjasl
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
-asdfljkasdfjadf
+
 as
 345634563456345645
 asdfjasdf
