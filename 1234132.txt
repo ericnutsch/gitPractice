@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 a
@@ -7,11 +7,9 @@ a
 a
 a
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
 23543254325423452345
 235
 423542354235423542354234
 
 234523542354234523542354
->>>>>>> stuff2
+
